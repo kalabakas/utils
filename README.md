@@ -1,4 +1,4 @@
 utils
 =====
 
-Pernosal utils for vim and other tools
+Pernosal utils configuration for vim and other tools
