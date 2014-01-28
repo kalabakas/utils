@@ -1,3 +1,6 @@
+" Turn on the mouse 
+set mouse=a
+
 " Turn on line numbering. Turn it off with "set nonu" 
 set nu 
 
